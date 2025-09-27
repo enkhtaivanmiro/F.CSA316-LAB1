@@ -23,7 +23,7 @@ import Navbar from './components/navbar.vue';
 button {
     padding: 10px 20px;
     background: #42b983;
-    color: white;
+    color: var(--orange);
     border: none;
     border-radius: 5px;
     cursor: pointer;
